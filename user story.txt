@@ -1,0 +1,10 @@
+as a user i want to :
+- sign in
+- book an event 
+
+
+
+
+as an admin i need to : 
+-accept/refuse events 
+-create, manage events
